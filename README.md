@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnaiduchukka" alt="kumarnaiduchukka" /></a> </p>
 
+- 🔭 I’m currently working on [Text Summarization](https://github.com/KumarNaiduChukka/Text_Summarizer_NLP_project.git)
+
 - 🌱 I’m currently learning **AI**
+
+- 👯 I’m looking to collaborate on [Object Detection](https://github.com/KumarNaiduChukka/Object_Detection.git)
+
+- 🤝 I’m looking for help with [Telecom Customer Churn Prediction](https://github.com/KumarNaiduChukka/telecom_customer_churn-_prediction_project.git)
+
+- 💬 Ask me about **I am a data scientist with a keen interest in uncovering insights and patterns through data analysis. Based in india ,I am dedicated to leveraging data to solve real-world problems and drive decision-making**
 
 - 📫 How to reach me **chukkakumarnaidu2003@gmail.com**
 
@@ -13,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kumar naidu chukka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar naidu chukka" height="30" width="40" /></a>
 <a href="https://fb.com/krishna kumar chukka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna kumar chukka" height="30" width="40" /></a>
+<a href="https://instagram.com/kumarnaiduchukka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumarnaiduchukka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
