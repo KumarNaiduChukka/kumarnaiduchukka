@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on [Object Detection](https://github.com/KumarNaiduChukka/Object_Detection.git)
-
-- 🤝 I’m looking for help with [Telecom Customer Churn Prediction](https://github.com/KumarNaiduChukka/telecom_customer_churn-_prediction_project.git)
-
 - 💬 Ask me about **I am a data scientist with a keen interest in uncovering insights and patterns through data analysis. Based in india ,I am dedicated to leveraging data to solve real-world problems and drive decision-making**
 
 - 📫 How to reach me **chukkakumarnaidu2003@gmail.com**
